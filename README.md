@@ -36,7 +36,12 @@ Relevant coursework: Mathematical Statistics, Applied Linear Algebra, Differenti
 
 ### 📌 Featured Projects
 
-*Project repos coming soon — the work above is currently being written up as full case studies with code and analysis. Check back soon, or see the highlights above in the meantime.*
+*Public portfolio projects demonstrating methodology from my research/work experience above, built with synthetic or public data (real employer/research data isn't shareable). More coming soon.*
+
+| Project | Description | Stack |
+|---|---|---|
+| [**GNSS Positioning Error Analysis**](https://github.com/miachaplin/gnss-positioning-error-analysis) | Methodology demo comparing GNSS positioning error between two correction sources — 27.6% RMSE reduction, mirrors my ARL research workflow | Python, NumPy, pandas, Matplotlib |
+| [**Astronomical Clustering Analysis**](https://github.com/miachaplin/astronomical-clustering-analysis) | Compared K-Means, GMM, and DBSCAN on structured vs. null data — shows DBSCAN correctly detects absence of clustering, mirrors my FRI quasar research workflow | Python, scikit-learn, Matplotlib |
 
 ### 🏆 Honors
 
