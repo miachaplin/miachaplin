@@ -46,6 +46,7 @@ Relevant coursework: Mathematical Statistics, Applied Linear Algebra, Differenti
 | [**Spotify Track Popularity Prediction**](https://github.com/miachaplin/spotify-popularity-prediction) | RFE feature selection shows genre — not raw audio features — drives song popularity prediction; reduced model matches full-feature performance | Python, scikit-learn, Plotly |
 | [**College Football AP Poll Regression**](https://github.com/miachaplin/college-football-ap-poll-regression) | Linear regression models how win percentage and strength of schedule jointly predict AP Poll appearance frequency | R, ggplot2 |
 | [**Two-Body Orbital Mechanics**](https://github.com/miachaplin/two-body-orbital-mechanics) | Numerically solves and animates the two-body gravitational problem across 16 mass-ratio/eccentricity configurations | Python, SciPy, Matplotlib |
+| [**GNSS PPP Quality-Control Threshold Validation**](https://github.com/miachaplin/gnss-ppp-qc-validation) | Sensitivity analysis of PPP tool parameters and validation of good/fair/poor quality-control thresholds — mirrors my ARL PPP transition workflow | Python, NumPy, pandas, Matplotlib |
 
 ### 🏆 Honors
 - College of Natural Sciences College Scholar — Top 20% of students
