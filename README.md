@@ -7,14 +7,14 @@ B.S. Mathematics, Statistics & Data Science minor, graduating **May 2027**. Curr
 
 ### 🎓 Education
 **The University of Texas at Austin** — B.S. Mathematics *(May 2027)*
-Minor: Statistics and Data Science | Certificate: Programming and Computation | **GPA: 3.98**
+Minor: Statistics and Data Science | Certificate: Programming and Computation | **GPA: 3.99**
 **Heriot-Watt University**, Edinburgh, UK — Study Abroad, Numerical Methods & Data Analytics *(2025)*
 Relevant coursework: Mathematical Statistics, Applied Linear Algebra, Differential Equations, Elements of Data Science, Elements of Databases, Elements of Scientific Computing
 
 ### 💼 Experience & Research
 - **Actuarial Science Intern, Harbor Health** — built a weighted Gamma GLM with sum-to-zero contrast coding to derive demographic-adjusted geographic rating factors, and an OLS-based completion factor adjustment model to reduce early-duration claims reserving error; validated results with paired t-tests and Wilcoxon signed-rank significance testing, and helped streamline recurring actuarial reporting workflows
 - **SQL & Python Trainee, The Global Career Accelerator** — analyzing real-world datasets in Jupyter, building Plotly visualizations, and communicating findings to a global team
-- **Student Technician, Applied Research Laboratories (UT Austin)** — analyzing GNSS precise-positioning data; findings showed a ~15cm reduction in positioning error using NGA's ephemeris, presented to ARL sponsors and domain experts
+- **Student Technician, Applied Research Laboratories (UT Austin)** — analyzing GNSS precise-positioning data; findings showed a ~15cm reduction in positioning error using NGA's ephemeris, presented to ARL sponsors and domain experts; automated workflows to assess current default settings and quality control metric thresholds of a precise positioning tool by running the tool on over 500,000 hours of data
 - **Researcher, Freshman Research Initiative — Geometry of Space** — applied GMM, K-means, and DBSCAN clustering to study quasar distributions
 
 ### 🛠️ Skills & Tools
@@ -50,7 +50,7 @@ Relevant coursework: Mathematical Statistics, Applied Linear Algebra, Differenti
 
 ### 🏆 Honors
 - College of Natural Sciences College Scholar — Top 20% of students
-- University Honors — awarded all 5 semesters
+- University Honors — awarded all 6 semesters
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mia-chaplin) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mchaplin610@gmail.com)
